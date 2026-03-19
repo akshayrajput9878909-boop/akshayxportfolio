@@ -115,6 +115,20 @@ const projects = [
     url: "https://github.com/ehsanghaffar/nextjs-appdir-docker",
     featured: false,
   },
+  {
+  id: 999,
+  title: "Gym Testimonial Website",
+  description:
+    "A modern fitness website focused on showcasing testimonials and converting visitors into gym members.",
+  tags: ["Next.js", "Tailwind", "UI/UX", "Fitness"],
+  status: "shipped",
+  year: "2025",
+  stars: 0,
+  forks: 0,
+  url: "#",
+  homepage: "https://fitness-web-testomonial.vercel.app/",
+  featured: true,
+},
 ]
 
 const filters = ["all", "shipped", "in-progress", "archived"]
