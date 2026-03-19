@@ -7,7 +7,7 @@ import { cn } from "@/lib/utils"
 const socialLinks = [
   { label: "LinkedIn", href: "https://www.linkedin.com/in/akshay-rajput-6559b4342/", icon: Linkedin },
   { label: "WhatsApp", href: "https://wa.me/919302516537?text=Hi%20I%20saw%20your%20portfolio", icon: MessageCircle },
-  { label: "Email", href: "mailto:hello@akshayrajput.com", icon: Mail },
+  { label: "Email", href: "mailto:akshayrajput9878909@gmail.com", icon: Mail },
 ]
 
 const services = [
